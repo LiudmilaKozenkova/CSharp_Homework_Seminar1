@@ -1,9 +1,9 @@
 ﻿int start = 2;
-int n = 20;
+int n = 60;
 
 while(start<= n)
 {
-    Console.WriteLine(start);
+    Console.Write(start + " ");
     start = start + 2;
     //start = start + 2;
 }
